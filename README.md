@@ -1,5 +1,8 @@
 Setup locally :-
 
+The mongo db database has been named "assgn".
+So make sure there is no db named "assgn" already present in mongodb
+
 Global Steps:
 1) git clone https://github.com/jaswant-rajput/assgn.git
 2) cd assgn
