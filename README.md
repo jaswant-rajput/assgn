@@ -21,25 +21,24 @@ The `useState` hook is appropriate for handling state in complex components for 
 
 
 
-Setup locally :-
+### Setup Locally
 
-The mongo db database has been named "assgn".
-So make sure there is no db named "assgn" already present in mongodb
+**Note:** Ensure there is no MongoDB database named `assgn` already present.
 
-Global Steps:
-1) git clone https://github.com/jaswant-rajput/assgn.git
-2) cd assgn
+#### Global Steps:
+1. `git clone https://github.com/jaswant-rajput/assgn.git`
+2. `cd assgn`
 
-Backend Steps:
-1) cd backend
-2) npm install
-3) npm run build
-4) npm run start
+#### Backend Steps:
+1. `cd backend`
+2. `npm install`
+3. `npm run build`
+4. `npm run start`
 
-Frontend Steps: 
-1) cd frontend
-2) npm install
-3) npm run dev
+#### Frontend Steps:
+1. `cd frontend`
+2. `npm install`
+3. `npm run dev`
 
 
 
