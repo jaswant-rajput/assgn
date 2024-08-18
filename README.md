@@ -1,6 +1,8 @@
 Setup locally :-
 
-First step for both frontend and backend: git clone https://github.com/jaswant-rajput/assgn.git
+Global Steps:
+1) git clone https://github.com/jaswant-rajput/assgn.git
+2) cd assgn
 
 Frontend Steps: 
 1) cd frontend
